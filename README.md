@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishi TJ</h1>
 <h3 align="center">Full Stack Developer | Building Real-World Projects</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishitj1972&label=Profile%20views&color=0e75b6&style=flat" alt="rishitj1972" />
-</p>
+</p> -->
 
 ---
 
