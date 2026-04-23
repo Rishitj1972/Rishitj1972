@@ -16,17 +16,17 @@
 ---
 
 ### 🔥 Current Project
-- 🗂️ **Task Management System**  
-  → Full Stack App with Authentication, CRUD, and REST APIs  
-  → Tech Stack: Spring Boot, MySQL, React (in progress)  
-  👉 https://github.com/Rishitj1972/Task-Manager  
+- 🗂️ **Real-Time-Chat-Application**  
+  → A real-time chat application built with Spring Boot, WebSocket (STOMP), React, and PostgreSQL  
+  → Featuring JWT authentication, instant messaging, and persistent chat history. 
+  👉 https://github.com/Rishitj1972/Real-Time-Chat-Application
 
 ---
 
 ### 🧠 Currently Learning
 - Java & Spring Boot (Deep Backend Development)  
 - JavaScript & React (Frontend Development)  
-- MySQL & Database Design  
+- MySQL, PostgreSQL & Database Design  
 - REST API Design & JWT Authentication  
 
 ---
