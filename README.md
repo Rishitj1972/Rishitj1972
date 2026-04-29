@@ -53,8 +53,3 @@
 - 📧 Email: **rishitj1972@gmail.com**
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitj1972" alt="rishitj1972" />
-</p>
