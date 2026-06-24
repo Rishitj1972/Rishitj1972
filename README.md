@@ -15,14 +15,6 @@
 
 ---
 
-### 🔥 Current Project
-- 🗂️ **Real-Time-Chat-Application**  
-  → A real-time chat application built with Spring Boot, WebSocket (STOMP), React, and PostgreSQL  
-  → Featuring JWT authentication, instant messaging, and persistent chat history. <br>
-  👉 https://github.com/Rishitj1972/Real-Time-Chat-Application
-
----
-
 ### 🧠 Currently Learning
 - Java & Spring Boot (Deep Backend Development)  
 - JavaScript & React (Frontend Development)  
